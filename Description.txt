@@ -4,5 +4,3 @@ A content delivery network (CDN) is a geographically distributed group of server
 Using Amazon Font i.e Amazon ember 
 To incorporate the Amazon Ember font into my project, I first downloaded the font and then utilized the @font-face rule in my style.css file. This allowed me to seamlessly integrate the font into my project and ensure a consistent and professional appearance across all pages.
 
-border: border-box property
-If you set an element's width to 100 pixels, that 100 pixels will include any border or padding you added, and the content box will shrink to absorb that extra width
